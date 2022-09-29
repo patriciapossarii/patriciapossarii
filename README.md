@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**patriciapossarii/patriciapossarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-🌐 Language: 
+ - > Portuguese: Native; 
+ - > English: Intermediary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+-👩‍🎓🎓Acadêmico:
+ - > Student -  Degree in Information Systems (4th Period);
+ - > Student - Full Stack;
+ - > Degree in business administration.
+ 
+ -👩‍💻 Professional Experiences:
+  - > QA;
+  - > IT support;
+  - > IT Infrastructure.
+
+ -📫  How to reach me: patricia_carvalhoo@yahoo.com.br
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriciapossarii&show_icons=true&theme=radical)
+ 
+ 
+  
+
+ 
+ 
