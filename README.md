@@ -7,7 +7,7 @@
 
 
 
--👩‍🎓🎓Acadêmico:
+-👩‍🎓🎓Academic:
  - > Student -  Degree in Information Systems (4th Period);
  - > Student - Full Stack;
  - > Degree in business administration.
