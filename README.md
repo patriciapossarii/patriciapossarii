@@ -8,12 +8,12 @@
 
 
 -👩‍🎓🎓Academic:
- - > Student -  Degree in Information Systems (4th Period);
- - > Student - Full Stack;
+ - > Student -  Degree in Information Systems (6th Period);
+ - > Full Stack Developer;
  - > Degree in business administration.
  
  -👩‍💻 Professional Experiences:
-  - > QA;
+  - > Software Quality Assurance ;
   - > IT support;
   - > IT Infrastructure.
 
